@@ -3,6 +3,7 @@ Question 2
 This folder contains:
 - Log_analyzer.sh
 - system.log
+- logsummary
 - Screenshots
 
   
