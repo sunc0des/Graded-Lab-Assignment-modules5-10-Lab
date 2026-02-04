@@ -7,6 +7,8 @@ This folder contains:
 
   
 - Explanations for commands used:
+
+  
 Command:
 chmod +x analyze.sh
 
